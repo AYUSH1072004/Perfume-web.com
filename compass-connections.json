@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "e8c33f3f-f853-4688-aa8c-aab2851e0f66",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1752862976416"
+        }
+      },
+      "favorite": {
+        "name": "perfume",
+        "color": "color1"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
