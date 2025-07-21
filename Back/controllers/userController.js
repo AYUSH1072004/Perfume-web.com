@@ -90,5 +90,4 @@ const signin = async (req, res) => {
 };
 
 
-
 export default { home,signup,signin };
